@@ -1,1 +1,3 @@
-TSAAP
+Tyumen Socilinguistic Archives and Analysis Project (TSAAP)...
+contains a collection of texts downloaded from pages available for public view in Twitter and Vkontakte. The texts were downloaded using Twitter and Vkontakte API.
+The texts are classified according to the major interest that attracts users to the page, for example, football, rock music, vegetarianism, historical reenactment. The classification is performed by two experts: a linguist and a sociologist. All the texts got the full approvement of the both specialists, i.e. both of the experts concluded separately (without knowing the decision of the other) that the text (page) attracts users with this particular major interest.
